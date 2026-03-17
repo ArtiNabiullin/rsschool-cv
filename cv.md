@@ -38,3 +38,32 @@
 4. Git/Github
 
 ---
+
+## Code example:
+
+```
+function solution(str, ending){
+ return str.endsWith(ending);
+}
+```
+
+---
+
+## Projects:
+
+- [My CV](https://github.com/ArtiNabiullin/rsschool-cv)
+
+---
+
+## Education:
+
+- Ufa University of Science and Technology.
+
+---
+
+## Languages
+
+1. Russian: native speaker
+2. English: A0(Beginner)
+
+---
