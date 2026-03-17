@@ -2,7 +2,7 @@
 
 ---
 
-## Artur Nabiullin
+## _Artur Nabiullin_
 
 ![My photo](./Artur.jpg "Artur Nabiullin")
 
@@ -14,3 +14,27 @@
 - GitHub: [ArturNabiullin](https://github.com/ArtiNabiullin "My GitHub")
 - Telegram: @Rutra_Kaz
 - Discord: @artnabi01
+
+---
+
+## About Me:
+
+**I am 25 years old, I worked as an engineer in the production and technical department, I decided to change my life and gain new knowledge on front-end development.**
+
+- The best qualities:
+  - Diligence
+  - Industriousness
+  - Stubbornness
+  - Versatility
+  - Learning ability
+
+---
+
+## Skills:
+
+1. HTML
+2. CSS
+3. JavaScript(Fundamentals)
+4. Git/Github
+
+---
