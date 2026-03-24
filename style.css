@@ -174,7 +174,8 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  gap: 6px;
+  margin-left: 16px;
+  gap: 10px;
 }
 
 .logo__rsschool {
@@ -183,11 +184,20 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  gap: 6px;
+  margin-right: 16px;
+  gap: 10px;
 }
 
 .logo-rss {
   width: 64px;
   height: 64px;
+}
+
+.rss {
+  color: rgb(168, 108, 108);
+}
+
+.rss:hover {
+  color: rgb(207, 52, 52);
 }
 /* Footer styles end */
