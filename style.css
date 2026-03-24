@@ -48,7 +48,7 @@ body {
   max-width: 100%;
   margin: 0 auto;
   font-family: 'Roboto', 'Lato', sans-serif ;
-  font-size: 12px;
+  font-size: 16px;
   color: black;
 }
 /* Header styles start */
@@ -92,7 +92,7 @@ body {
 /* Header styles end */
 /* My-profile styles start */
 .my-profile {
-  padding: 10px 0;
+  padding: 20px 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -124,5 +124,33 @@ body {
   text-decoration: underline;
 }
 /* My-profile styles end */
-.section {
+/* Grid-container styles start */
+.grid__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin: 10px 0;
 }
+
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 2px solid rgb(174, 165, 165);
+}
+
+.section__title {
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+.section__list_description {
+  color: rgb(168, 108, 108);
+}
+
+.footer {
+  background-color: rgb(237, 233, 233);
+}
+/* Grid-container styles end */
