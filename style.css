@@ -1,4 +1,4 @@
-/* reset css start */
+/* reset styles css start */
 *html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -39,8 +39,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }*
-/* reset css end */
-
+/* reset styles css end */
 html {
   scroll-behavior: smooth;
 }
@@ -52,7 +51,7 @@ body {
   font-size: 12px;
   color: black;
 }
-
+/* Header styles start */
 .header {
   display: flex;
   flex-wrap: wrap;
@@ -90,6 +89,40 @@ body {
   text-transform: capitalize;
   color: black;
 }
+/* Header styles end */
+/* My-profile styles start */
+.my-profile {
+  padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
+.my-profile__logo {
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+}
+
+.my-profile__logo:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.my-profile__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.my-profile__subtitle:hover {
+  cursor: pointer;
+  color: red;
+  text-decoration: underline;
+}
+/* My-profile styles end */
 .section {
 }
