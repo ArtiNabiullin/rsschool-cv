@@ -4,7 +4,7 @@
 
 ## _Artur Nabiullin_
 
-![My photo](./Artur.jpg "Artur Nabiullin")
+![My photo](./assets/jpg/Artur.jpg "Artur Nabiullin")
 
 ---
 
